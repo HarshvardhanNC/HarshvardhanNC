@@ -24,6 +24,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshvardhanchinchkhedkar@gmail.com) 
 
 
+
 ## 🚀 Projects
 
 - 🎓 [College Buddy](https://github.com/HarshvardhanNC/college-buddy) – Student support & lost+found platform  
